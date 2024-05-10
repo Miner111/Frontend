@@ -1,0 +1,7 @@
+version: '2.4'
+services:
+  frontend:
+    image: backend:latest
+    container_name: backend
+    ports:
+      - "5001:5001"
