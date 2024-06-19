@@ -1,4 +1,4 @@
-def imageName="miner111/pandacore/backend"
+def imageName="miner111/pandacore"
 def dockerRegistry=""
 def registryCredentials="dockerhub"
 def dockerTag=""
